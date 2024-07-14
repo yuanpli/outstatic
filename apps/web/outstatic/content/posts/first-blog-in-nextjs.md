@@ -1,6 +1,6 @@
 ---
 title: 'First Blog in Nextjs'
-status: 'draft'
+status: 'published'
 author:
   name: 'Perry'
   picture: 'https://avatars.githubusercontent.com/u/13729335?v=4'
