@@ -1,25 +1,7 @@
 {
-  "commit": "38a83b3bb1d52a1c267f64aada3934cfb230c5bd",
-  "generated": "Fri, 26 Jul 2024 05:27:48 GMT",
+  "commit": "a1cae0fe5d839a60e8cf4857fa5e3674823f70fd",
+  "generated": "2024-07-26T05:30:49.826Z",
   "metadata": [
-    {
-      "__outstatic": {
-        "commit": "f29c7b9f0eab7feb4c9723dfc5fd71825ce50137",
-        "hash": "1410174546",
-        "path": "/outstatic/content/posts/first-blog-in-nextjs.md"
-      },
-      "author": {
-        "name": "Perry",
-        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
-      },
-      "collection": "posts",
-      "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-14T02:14:06.705Z",
-      "slug": "first-blog-in-nextjs",
-      "status": "published",
-      "title": "First Blog in Nextjs"
-    },
     {
       "__outstatic": {
         "commit": "31d0e0e6b0fcc551615290af631d78143bd6553c",
@@ -55,6 +37,24 @@
       "slug": "about",
       "status": "draft",
       "title": "About me"
+    },
+    {
+      "__outstatic": {
+        "commit": "a1cae0fe5d839a60e8cf4857fa5e3674823f70fd",
+        "hash": "1410174546",
+        "path": "outstatic/content/posts/first-blog-in-nextjs.md"
+      },
+      "author": {
+        "name": "Perry",
+        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-07-14T02:14:06.705Z",
+      "slug": "first-blog-in-nextjs",
+      "status": "published",
+      "title": "First Blog in Nextjs"
     }
   ]
 }
