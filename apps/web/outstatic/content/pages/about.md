@@ -1,6 +1,6 @@
 ---
 title: 'About me'
-status: 'draft'
+status: 'published'
 author:
   name: 'Perry'
   picture: 'https://avatars.githubusercontent.com/u/13729335?v=4'
@@ -16,7 +16,7 @@ publishedAt: '2024-07-14T02:52:21.897Z'
 
 🇨🇳 From Chengdu, China
 
-🌟 
+🌟
 
 **### Diverse Career👨🏻‍💻**
 
