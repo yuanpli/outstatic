@@ -1,6 +1,6 @@
 {
-  "commit": "38a83b3bb1d52a1c267f64aada3934cfb230c5bd",
-  "generated": "Fri, 26 Jul 2024 05:20:38 GMT",
+  "commit": "4c864cd0cd4c9ae207ca9c01c29296a0e9ba91aa",
+  "generated": "2024-07-26T05:21:36.417Z",
   "metadata": [
     {
       "__outstatic": {
@@ -22,24 +22,6 @@
     },
     {
       "__outstatic": {
-        "commit": "31d0e0e6b0fcc551615290af631d78143bd6553c",
-        "hash": "3015353010",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Perry",
-        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog",
-      "publishedAt": "2024-07-14T03:20:13.651Z",
-      "slug": "home",
-      "status": "draft",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
         "commit": "ce71968c27a7b11619b1aa8c2644e00e989e1069",
         "hash": "470647202",
         "path": "/outstatic/content/pages/about.md"
@@ -55,6 +37,24 @@
       "slug": "about",
       "status": "draft",
       "title": "About me"
+    },
+    {
+      "__outstatic": {
+        "commit": "4c864cd0cd4c9ae207ca9c01c29296a0e9ba91aa",
+        "hash": "3598244657",
+        "path": "outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Perry",
+        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog",
+      "publishedAt": "2024-07-14T03:20:13.651Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
     }
   ]
 }
