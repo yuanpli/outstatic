@@ -1,48 +1,12 @@
 {
-  "commit": "a1cae0fe5d839a60e8cf4857fa5e3674823f70fd",
-  "generated": "2024-07-26T05:30:49.826Z",
+  "commit": "ef45e06da597d6b080b2a3ba028e09743f5dc2a7",
+  "generated": "Fri, 26 Jul 2024 05:31:09 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "31d0e0e6b0fcc551615290af631d78143bd6553c",
-        "hash": "3015353010",
-        "path": "/outstatic/content/pages/home.md"
-      },
-      "author": {
-        "name": "Perry",
-        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "This is my blog",
-      "publishedAt": "2024-07-14T03:20:13.651Z",
-      "slug": "home",
-      "status": "draft",
-      "title": "Home"
-    },
-    {
-      "__outstatic": {
-        "commit": "ce71968c27a7b11619b1aa8c2644e00e989e1069",
-        "hash": "470647202",
-        "path": "/outstatic/content/pages/about.md"
-      },
-      "author": {
-        "name": "Perry",
-        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
-      },
-      "collection": "pages",
-      "coverImage": "",
-      "description": "I'm Perry, a senior software engineer from Chengdu, China",
-      "publishedAt": "2024-07-14T02:52:21.897Z",
-      "slug": "about",
-      "status": "draft",
-      "title": "About me"
-    },
-    {
-      "__outstatic": {
-        "commit": "a1cae0fe5d839a60e8cf4857fa5e3674823f70fd",
+        "commit": "f29c7b9f0eab7feb4c9723dfc5fd71825ce50137",
         "hash": "1410174546",
-        "path": "outstatic/content/posts/first-blog-in-nextjs.md"
+        "path": "/outstatic/content/posts/first-blog-in-nextjs.md"
       },
       "author": {
         "name": "Perry",
@@ -55,6 +19,42 @@
       "slug": "first-blog-in-nextjs",
       "status": "published",
       "title": "First Blog in Nextjs"
+    },
+    {
+      "__outstatic": {
+        "commit": "a4c1f69da49ebaefcad83a47ac5df22b89bfe48c",
+        "hash": "3598244657",
+        "path": "/outstatic/content/pages/home.md"
+      },
+      "author": {
+        "name": "Perry",
+        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "This is my blog",
+      "publishedAt": "2024-07-14T03:20:13.651Z",
+      "slug": "home",
+      "status": "published",
+      "title": "Home"
+    },
+    {
+      "__outstatic": {
+        "commit": "ce71968c27a7b11619b1aa8c2644e00e989e1069",
+        "hash": "2859904364",
+        "path": "/outstatic/content/pages/about.md"
+      },
+      "author": {
+        "name": "Perry",
+        "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
+      },
+      "collection": "pages",
+      "coverImage": "",
+      "description": "I'm Perry, a senior software engineer from Chengdu, China",
+      "publishedAt": "2024-07-14T02:52:21.897Z",
+      "slug": "about",
+      "status": "published",
+      "title": "About me"
     }
   ]
 }
