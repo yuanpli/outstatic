@@ -1,24 +1,24 @@
 {
   "commit": "38a83b3bb1d52a1c267f64aada3934cfb230c5bd",
-  "generated": "Fri, 26 Jul 2024 05:18:09 GMT",
+  "generated": "Fri, 26 Jul 2024 05:18:35 GMT",
   "metadata": [
     {
       "__outstatic": {
-        "commit": "ce71968c27a7b11619b1aa8c2644e00e989e1069",
-        "hash": "470647202",
-        "path": "/outstatic/content/pages/about.md"
+        "commit": "f29c7b9f0eab7feb4c9723dfc5fd71825ce50137",
+        "hash": "1410174546",
+        "path": "/outstatic/content/posts/first-blog-in-nextjs.md"
       },
       "author": {
         "name": "Perry",
         "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
       },
-      "collection": "pages",
+      "collection": "posts",
       "coverImage": "",
-      "description": "I'm Perry, a senior software engineer from Chengdu, China",
-      "publishedAt": "2024-07-14T02:52:21.897Z",
-      "slug": "about",
-      "status": "draft",
-      "title": "About me"
+      "description": "",
+      "publishedAt": "2024-07-14T02:14:06.705Z",
+      "slug": "first-blog-in-nextjs",
+      "status": "published",
+      "title": "First Blog in Nextjs"
     },
     {
       "__outstatic": {
@@ -40,21 +40,21 @@
     },
     {
       "__outstatic": {
-        "commit": "f29c7b9f0eab7feb4c9723dfc5fd71825ce50137",
-        "hash": "1410174546",
-        "path": "/outstatic/content/posts/first-blog-in-nextjs.md"
+        "commit": "ce71968c27a7b11619b1aa8c2644e00e989e1069",
+        "hash": "470647202",
+        "path": "/outstatic/content/pages/about.md"
       },
       "author": {
         "name": "Perry",
         "picture": "https://avatars.githubusercontent.com/u/13729335?v=4"
       },
-      "collection": "posts",
+      "collection": "pages",
       "coverImage": "",
-      "description": "",
-      "publishedAt": "2024-07-14T02:14:06.705Z",
-      "slug": "first-blog-in-nextjs",
-      "status": "published",
-      "title": "First Blog in Nextjs"
+      "description": "I'm Perry, a senior software engineer from Chengdu, China",
+      "publishedAt": "2024-07-14T02:52:21.897Z",
+      "slug": "about",
+      "status": "draft",
+      "title": "About me"
     }
   ]
 }
